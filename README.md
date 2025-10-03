@@ -2,13 +2,14 @@
 <h1 align="center">Hi 👋, I'm Swetha Ramasamy</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
-- 🔭 I recently completed my Bachelor's degree in Computer Science and Business Systems from KGiSL Institute of Technology.
 
-- 🌱 I’m currently learning **Python, JAVA, C, C++,JS,HTML,CSS**
+🔭 I recently completed my Bachelor's degree in **Computer Science and Business Systems** from **KGiSL Institute of Technology**.
 
-- 📫 How to reach me **swetharamasamy08@gmail.com**
+🌱 I’m currently learning **Python, Java, C, C++, JavaScript, HTML, CSS**
 
-- ⚡ Fun fact **I think I am hilarious**
+📫 How to reach me: **swetharamasamy08@gmail.com**
+
+⚡ Fun fact: **I think I am hilarious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

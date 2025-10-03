@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Swetha Ramasamy</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
-- 🔭 I’m currently pursuing my **bachelor degree**
+- 🔭 I recently completed my Bachelor's degree in **Computer Science and Business Systems** from **KGiSL Institute of Technology.**
 
 - 🌱 I’m currently learning **Python, JAVA, C, C++,JS,HTML,CSS**
 
